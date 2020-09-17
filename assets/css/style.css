@@ -51,6 +51,8 @@ p {
     font-size: 16px;
 }
 
+/* Main hero image is hosted here */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -87,21 +89,29 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated matching classes */
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* COnsolidated matching classes */
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Consolidated matching classes */
+
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Consolidated matching classes */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -111,6 +121,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Consolidated matching classes */
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
