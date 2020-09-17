@@ -1,7 +1,7 @@
 # homework01
 <strong>Homework 1</strong>
 
-Assignemnt goal is to clean existing code with semantic naming structures and consolidate any duplicated style information.
+Assignment goal is to clean existing code with semantic naming structures and consolidate any duplicated style information.  Goal is to learn how to properly format existing code and debug potential errors, as well as leave the code better than we found it.  Notes below on updates that were made.
 
 
 9/17/20 Teresa (Tessa) Pierce
@@ -29,6 +29,8 @@ Assignemnt goal is to clean existing code with semantic naming structures and co
 -Set body width to 100%
 
 -Consolidated redudnant css elements
+
+-Notes have been added to what was consolidated, as well as notating where the hero image lives
 
 
 
