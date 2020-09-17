@@ -4,10 +4,10 @@
 
 index.html
 -Updated title to be descriptive
--Updated with semantic tags including <header>, <nav>, <main>, <aside>, and <footer>
+-Updated with semantic tags including 'header', 'nav', 'main', 'aside', and 'footer'
 -Alt text has been added to each image for screen readers
 -Notes have been added to assist in organization
--Closing </img> tag was removed as it is unnecesary.
+-Closing '/img' tag was removed as it is unnecesary.
 
 style.css
 -Set body width to 100%
@@ -16,4 +16,4 @@ style.css
 link to site: https://tesssapierce.github.io/homework01/
 link to repo: https://github.com/tesssapierce/homework01
 
-<img src="/assets/screenshot.png">
+<img src="./assets/screenshot.png">
