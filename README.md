@@ -15,3 +15,5 @@ style.css
 
 link to site: https://tesssapierce.github.io/homework01/
 link to repo: https://github.com/tesssapierce/homework01
+
+<img src="/assets/screenshot.png">
